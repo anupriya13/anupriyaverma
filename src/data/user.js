@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Personal Website by Anupriya Verma",
+		title: "Anupriya Verma",
 		name: "Anupriya Verma",
 		email: "anupriyaverma13@gmail.com",
 		logo: "../logo.png",
