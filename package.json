@@ -1,11 +1,11 @@
 {
+	"homepage":"https://anupriya13.github.io/anupriyaverma/",
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Anupriya Verma",
-		"email": "anupriyaverma13@gmail.com",
-		"url": "https://anupriyaverma.com"
+		"email": "anupriyaverma13@gmail.com"
 	},
 	"license": "MIT",
 	"private": true,
